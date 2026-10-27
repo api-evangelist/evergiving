@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EverGiving is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://evergiving.com/
+EverGiving provides an end‑to‑end fundraising platform that enables regular giving campaigns for charities and nonprofits. The solution supports campaign creation, donor management, payment processing, reporting, and integrations with tools like Salesforce and Google Data Studio. It offers a public API for developers to access campaign data, donor information, and transaction records, facilitating custom integrations and analytics.
+
+**Areas:** Company · Fundraising · Nonprofit · API · Integration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://evergiving.com/)
+- [Documentation](https://www.evergiving.com/developer)
+- [Getting started](https://www.evergiving.com/try-us)
+- [API reference](https://www.evergiving.com/developer)
+- [Pricing](https://www.evergiving.com/pricing)
+- [Support](https://www.evergiving.com/contact-us)
+- [Blog](https://medium.com/blog-evergiving-com)
+- [Security](https://www.evergiving.com/security)
+- [Compliance](https://www.evergiving.com/security/)
+- [Terms of service](https://www.evergiving.com/terms-of-service)
+- [Privacy policy](https://www.evergiving.com/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/evergiving/](https://apis.io/providers/evergiving/).
